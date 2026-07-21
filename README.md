@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0137-single-number-ii) |
 | [0724-find-pivot-index](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sravanthi-kavati26/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sravanthi-kavati26/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -30,5 +31,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0137-single-number-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
