@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sravanthi-kavati26/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
