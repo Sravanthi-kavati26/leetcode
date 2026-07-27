@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0344-reverse-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sravanthi-kavati26/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sravanthi-kavati26/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sravanthi-kavati26/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
