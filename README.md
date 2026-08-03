@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0137-single-number-ii](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0137-single-number-ii) |
 | [0724-find-pivot-index](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0724-find-pivot-index) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sravanthi-kavati26/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sravanthi-kavati26/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
