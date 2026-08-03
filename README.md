@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0844-backspace-string-compare](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sravanthi-kavati26/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0844-backspace-string-compare) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sravanthi-kavati26/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0844-backspace-string-compare](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
