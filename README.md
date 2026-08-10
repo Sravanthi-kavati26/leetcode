@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sravanthi-kavati26/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0704-binary-search) |
 ## Stack
 |  |
 | ------- |
