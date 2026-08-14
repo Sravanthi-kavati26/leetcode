@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0724-find-pivot-index) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0844-backspace-string-compare) |
