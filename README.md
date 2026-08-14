@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0242-valid-anagram) |
 | [2670-find-the-distinct-difference-array](https://github.com/Sravanthi-kavati26/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0844-backspace-string-compare) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
