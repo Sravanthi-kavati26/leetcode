@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sravanthi-kavati26/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sravanthi-kavati26/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -97,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0844-backspace-string-compare) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sravanthi-kavati26/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
